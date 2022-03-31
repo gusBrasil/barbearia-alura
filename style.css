@@ -245,12 +245,12 @@ td, th {
 	width: 60%;
 	opacity: 1;
 	transition: 300ms all ease-in-out;
-	box-shadow: -10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
 .imagem-beneficios:hover {
 	opacity: 0.9;
 	transform: scale(1.05);
+	box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.5);
 }
 
 .video {
